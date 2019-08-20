@@ -1,0 +1,21 @@
+.JOB, .SKI {
+  border: solid;
+  margin: 20px;
+  border-color: green;
+  padding: 20px;
+  background-color: #88994b;
+
+}
+
+#job-response, #skill-response {
+  display: none;
+  border: solid;
+  margin: 20px;
+  border-color: green;
+  padding: 20px;
+  background-color: #88994b;
+}
+
+body {
+  background-color: #cad69f;
+}
